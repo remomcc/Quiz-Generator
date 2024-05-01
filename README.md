@@ -40,6 +40,7 @@ Ingesting pdf(s) with LangChain --> Vertex AI text embeddings --> Persistent Chr
 
 ## Loom presentation
 https://www.loom.com/share/33eb7b4804354b59b39947a851f54598?sid=0e74616d-8681-464e-8db2-4f0b280e3ce0
+
 https://pitch.com/v/quiz-generator-mp2t7g
 
 ## Time allocated for this project
